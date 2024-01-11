@@ -1,7 +1,7 @@
 # DevAssist
 DevAssist Tool for all environment development
 
-What is this thing?
+**What is this thing?**
 
 *Current Version - v1.0
 
@@ -19,7 +19,8 @@ What is this thing?
 
 
 
-Features
+
+**Features**
 
 *Template system that is entirely plain-text, allowing for flexible template storage and template calling regardless of programming language or environment.
 
@@ -32,7 +33,9 @@ Features
 *You can customize the text and window colours in the _Settings.ahk file, but button colour doesnt change in this version of autohotkey!
 
 
-How-Too DevAssist
+
+
+**How-To DevAssist**
 
 *Run the _Main.ahk and _ClipHistory.ahk files in the root folder. These are seperated in case you want to use one but not the other.
 
