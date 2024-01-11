@@ -54,3 +54,6 @@ DevAssist Tool for all environment development
 *The process for adding new hotkeys is manual but read the instructions and you will be fine!
 
 *May all your code be bug-free!
+
+**Requires **
+Autohotkey v1.1 and Notepad++ or VSCode
